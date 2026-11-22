@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460">
+<rect width="1000" height="460" rx="18" fill="#f5f7fb"/><g font-family="Arial" fill="#1d3548" text-anchor="middle">
+<rect x="350" y="24" width="300" height="70" rx="14" fill="#dceaf4" stroke="#285a78" stroke-width="2"/><text x="500" y="53" font-size="18" font-weight="bold">Lecture notes + options</text><text x="500" y="75" font-size="13">subject · difficulty · question count</text>
+<path d="M500 94 V132 M160 132 H840 M160 132 V167 M386 132 V167 M614 132 V167 M840 132 V167" stroke="#536b80" stroke-width="2" fill="none"/>
+<g><rect x="55" y="167" width="210" height="112" rx="12" fill="#e2f3ef" stroke="#168277" stroke-width="2"/><text x="160" y="201" font-size="17" font-weight="bold">1. Intake</text><text x="160" y="229" font-size="13">Validate notes</text><text x="160" y="249" font-size="13">bound count 1-15</text></g>
+<g><rect x="281" y="167" width="210" height="112" rx="12" fill="#e2f3ef" stroke="#168277" stroke-width="2"/><text x="386" y="201" font-size="17" font-weight="bold">2. Synthesis</text><text x="386" y="229" font-size="13">Topic summaries</text><text x="386" y="249" font-size="13">terms · formulas · gaps</text></g>
+<g><rect x="509" y="167" width="210" height="112" rx="12" fill="#e2f3ef" stroke="#168277" stroke-width="2"/><text x="614" y="201" font-size="17" font-weight="bold">3. Practice</text><text x="614" y="229" font-size="13">Source-supported MCQs</text><text x="614" y="249" font-size="13">answer · explanation · quote</text></g>
+<g><rect x="735" y="167" width="210" height="112" rx="12" fill="#fff0d9" stroke="#b27a1b" stroke-width="2"/><text x="840" y="201" font-size="17" font-weight="bold">4. Audit</text><text x="840" y="229" font-size="13">Claims and formula check</text><text x="840" y="249" font-size="13">MCQ support + verdict</text></g>
+<path d="M160 279 V329 H500 M386 279 V329 M614 279 V329 M840 279 V329 H500 V353" stroke="#536b80" stroke-width="2" fill="none"/>
+<rect x="330" y="353" width="340" height="72" rx="14" fill="#e8e6f7" stroke="#62569a" stroke-width="2"/><text x="500" y="382" font-size="18" font-weight="bold">Student verification</text><text x="500" y="404" font-size="13">Check against original notes</text></g></svg>
