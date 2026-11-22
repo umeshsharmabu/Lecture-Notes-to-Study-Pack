@@ -49,3 +49,7 @@ Use only academic material the team is authorized to use. Do not enter personal,
 ## Submission items still requiring team action
 
 The GitHub repository is public. The GitHub Pages prototype link, actual member contribution tasks/evidence/agreed percentages, and 90–150 second public reel still need completion and verification. The two PDF deliverables and three PNG captures remain in the local working ZIP; this repository contains text extracts and SVG diagrams, not those original binary assets.
+
+## GitHub Pages deployment status
+
+GitHub Pages deployment is configured with the Static HTML workflow. The initial workflow attempt is being retriggered in a fresh run after an artifact-collision issue; the live prototype URL is not confirmed until a deployment run succeeds.
