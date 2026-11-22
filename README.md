@@ -14,7 +14,8 @@ Team **Fluxbit** · Team ID **PE-B65-04** · Batch **B65-80**
 
 - Public GitHub repository: https://github.com/umeshsharmabu/Lecture-Notes-to-Study-Pack
 - Prototype source: [index.html](./index.html)
-- GitHub Pages URL: not yet enabled or verified. To publish, open Settings → Pages, choose Deploy from a branch, select `main` and `/(root)`, then test the generated URL in a private browser window.
+- GitHub Pages URL: https://umeshsharmabu.github.io/Lecture-Notes-to-Study-Pack/ <img width="468" height="41" alt="image" src="https://github.com/user-attachments/assets/12a5b57a-9499-4949-9b40-16b876e4726c" />
+
 
 ## Run the prototype locally
 
