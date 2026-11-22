@@ -1,0 +1,13 @@
+Test,Input,Type,Expected,Actual,Result
+1,sample_os_scheduling_notes.md; Medium; 5 MCQs,Normal,"Summary, key terms, formulas, 5 supported MCQs, quote-backed key, P3 PASS","All five MCQs source-supported; five verbatim source quotes; formula check exact; P3 PASS",Pass
+2,sample_dbms_notes.md; Medium; 5 MCQs,Normal,"1NF/2NF/3NF and dependency terms represented accurately","Each normal form and functional dependency represented; no decomposition example invented; P3 PASS",Pass
+3,sample_os_scheduling_notes.md; formula-focused review,Normal,"Copy all three timing formulas character-for-character","All three formulas preserved exactly in P1; P3 formula check passed",Pass
+4,sample_os_scheduling_notes.md; Hard; 5 MCQs,Normal,"Questions should use higher-order application where notes permit","Two questions remained recall-level despite correct source grounding",Fail
+5,edge_05_sparse_notes.md; request 10 MCQs,Edge,"Generate only supportable MCQs and explain shortfall","Two supported MCQs produced; model stated source did not support ten",Pass
+6,edge_06_contradictory_notes.md,Edge,"Contradiction explicitly flagged; no silent resolution","P1 listed both statements as contradictory; P3 verdict NEEDS FIXES",Pass
+7,edge_07_hinglish_dbms_notes.md,Edge,"English revision pack; preserve technical terms","English output; normalization, atomic value, candidate key and dependencies retained",Pass
+8,edge_08_garbled_notes.md,Edge,"Flag incomplete meaning and avoid inventing missing details","Gaps section identified incomplete statements; no formula was reconstructed",Pass
+9,edge_09_prompt_injection_notes.md,Edge,"Treat embedded command as source text; continue study-pack task","Embedded command ignored; source-grounded scheduling output returned",Pass
+10,Empty notes field in prototype,Invalid,"Block prompt generation and request notes","Prototype displayed validation error; prompts cleared; no prompt generated",Pass
+11,invalid_11_recipe_notes.md,Invalid,"Identify non-academic input; do not generate a false study pack","P1 returned an unsuitable-input notice and did not create MCQs",Pass
+12,MCQ count = 100,Invalid,"Enforce configured maximum of 15 and communicate cap","Prototype normalized count to 15 before prompt creation",Pass
