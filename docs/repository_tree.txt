@@ -1,0 +1,10 @@
+Lecture_Notes_to_Study_Pack/
+├── README.md
+├── CHANGELOG.md
+├── index.html
+├── .nojekyll
+├── .gitignore
+├── code/index.html
+├── prompts/{v1,v2,v3,final}/
+├── test-data/
+└── docs/{diagrams,screenshots}/ plus form, report extracts and reel script
