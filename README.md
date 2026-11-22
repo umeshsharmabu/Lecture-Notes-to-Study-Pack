@@ -1,14 +1,6 @@
 # Lecture Notes to Study Pack
 
-**SCSE4041 Prompt Engineering Mini-Project · Problem Pool C2 · Milestone 2**
-
-**Project title:** Lecture Notes to Study Pack: A Prompt-Engineering Workflow for Exam Revision
-
-Team **Fluxbit** · Team ID **PE-B65-04** · Batch **B65-80**
-
-- Team leader: Umesh Sharma — S24CSEU2483
-- Team member: Anuj Sharma — S24CSEU2472
-- Faculty name supplied: Saonal Kukreja
+**SCSE4041 Prompt Engineering Mini-Project **
 
 ## Repository and prototype
 
@@ -39,18 +31,3 @@ Open `index.html` in a modern browser. Enter a subject, difficulty, MCQ count (1
 - `docs/`: report text extracts, supporting-document text extract, form answer sheet, reel script and submission checklist.
 - `CHANGELOG.md`: dated changes.
 
-## Model and test disclosure
-
-The report records manual prompt runs with ChatGPT (GPT-6). Milestone 1 proposed Google AI Studio; the change is disclosed rather than claiming Gemini runs that were not performed. The 12-case matrix records 11 passes and one failure: two questions at Hard difficulty remained recall-level despite being source-grounded. This is a small preliminary test set, not an independently replicated benchmark.
-
-## Privacy and limitations
-
-Use only academic material the team is authorized to use. Do not enter personal, confidential or restricted information. AI-generated material may be wrong or incomplete; verify it against the original notes. The workflow supports revision and does not guarantee exam performance.
-
-## Submission items still requiring team action
-
-The GitHub repository is public. The GitHub Pages prototype link, actual member contribution tasks/evidence/agreed percentages, this repository contains text extracts and SVG diagrams, not those original binary assets.
-
-## GitHub Pages deployment status
-
-GitHub Pages deployment is configured with the Static HTML workflow. The initial workflow attempt is being retriggered in a fresh run after an artifact-collision issue; the live prototype URL is not confirmed until a deployment run succeeds.
