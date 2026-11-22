@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="260" viewBox="0 0 1100 260">
+<rect width="1100" height="260" rx="18" fill="#f3f6fa"/>
+<g font-family="Arial" text-anchor="middle" fill="#183247">
+<g><rect x="35" y="74" width="170" height="105" rx="14" fill="#dceaf4" stroke="#285a78" stroke-width="2"/><text x="120" y="112" font-size="17" font-weight="bold">Input</text><text x="120" y="140" font-size="13">Authorized notes</text></g>
+<g><rect x="250" y="74" width="170" height="105" rx="14" fill="#e2f3ef" stroke="#168277" stroke-width="2"/><text x="335" y="112" font-size="17" font-weight="bold">P1</text><text x="335" y="140" font-size="13">Summary &amp; terms</text></g>
+<g><rect x="465" y="74" width="170" height="105" rx="14" fill="#e2f3ef" stroke="#168277" stroke-width="2"/><text x="550" y="112" font-size="17" font-weight="bold">P2</text><text x="550" y="140" font-size="13">MCQs &amp; answer key</text></g>
+<g><rect x="680" y="74" width="170" height="105" rx="14" fill="#fff0d9" stroke="#b27a1b" stroke-width="2"/><text x="765" y="112" font-size="17" font-weight="bold">P3</text><text x="765" y="140" font-size="13">Grounding audit</text></g>
+<g><rect x="895" y="74" width="170" height="105" rx="14" fill="#e8e6f7" stroke="#62569a" stroke-width="2"/><text x="980" y="112" font-size="17" font-weight="bold">Human review</text><text x="980" y="140" font-size="13">Verify against notes</text></g>
+<g stroke="#506578" stroke-width="3" fill="none"><path d="M205 126 H242 M420 126 H457 M635 126 H672 M850 126 H887"/><path d="M232 116 L242 126 L232 136 M447 116 L457 126 L447 136 M662 116 L672 126 L662 136 M877 116 L887 126 L877 136"/></g>
+<text x="550" y="225" font-size="13" fill="#55697a">Manual, human-in-the-loop prompt pipeline — no automatic LLM API calls</text></g></svg>
